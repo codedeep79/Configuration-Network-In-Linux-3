@@ -2,8 +2,8 @@
 Compose and research some tips network in Linux real world
 
 ### 1. Domain manage 
-+ ### 1.1. Nâng cấp Active Directory Domain Controller
-+ ### 1.2. Nâng cấp DC thứ 2 - additional Domain Controller
++ ### 1.1. Upgrade Active Directory Domain Controller
++ ### 1.2. Upgrade DC second - additional Domain Controller
 + ### 1.3. Joining a Windows Server 2008 / 2008 R2 DC to a Samba AD
 + ### 1.4. Joining client machines to the domain
 + ### 1.5. Windows 7 Client
@@ -22,12 +22,13 @@ Compose and research some tips network in Linux real world
 + ### 2.2. DNS – Multi DNS
 + ### 2.3. DHCP – Multi DHCP
 ### 3. Mail server
-+ ### 3.1. Cài và cấu hình Mail server Zimbra
++ ### 3.1. Install and configure Mail server Zimbra
 + ### 3.2. Anti spam, anti virus
-+ ### 3.3. Tích hợp Zimbra vào AD
++ ### 3.3. Integrate Zimbra into AD
 ### 4. Firewall - PfSense
-+ ### 4.1. Cài và cấu hình PFSense
-+ ### 4.2. Cấu hình Proxy server
++ ### 4.1. Install and configure PFSense
++ ### 4.2. Configure Proxy server
 + ### 4.3. Server Publishing
 + ### 4.4. VPN (VPN site to site, VPN Client to site)
 + ### 4.5. Snort – IDS, IPS
+### 5. Noip 
